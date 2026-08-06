@@ -1,4 +1,3 @@
-// Exceeds Requirements: Maintained secondary lists (_unusedPrompts and _unusedQuestions) to guarantee no prompt or question is repeated until all options have been shown.
 
 using System;
 using System.Collections.Generic;
